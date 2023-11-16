@@ -1,0 +1,5 @@
+C:\Users\leqso\OneDrive\Tasks\Sorting Objects\Sorting Objects\obj\Debug\net6.0\Sorting Objects.csproj.AssemblyReference.cache
+C:\Users\leqso\OneDrive\Tasks\Sorting Objects\Sorting Objects\obj\Debug\net6.0\Sorting Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leqso\OneDrive\Tasks\Sorting Objects\Sorting Objects\obj\Debug\net6.0\Sorting Objects.AssemblyInfoInputs.cache
+C:\Users\leqso\OneDrive\Tasks\Sorting Objects\Sorting Objects\obj\Debug\net6.0\Sorting Objects.AssemblyInfo.cs
+C:\Users\leqso\OneDrive\Tasks\Sorting Objects\Sorting Objects\obj\Debug\net6.0\Sorting Objects.csproj.CoreCompileInputs.cache
